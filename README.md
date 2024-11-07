@@ -1,9 +1,20 @@
-# React + Vite
+# Kanban Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was made for a university drive.
 
-Currently, two official plugins are available:
+Tech Stack:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# KanbanBoardProject
+- React
+- Vite
+- Vercel
+
+### Start
+
+```shell
+npm run dev
+```
+
+### Screenshots
+
+<img width="359" alt="Screenshot 2024-11-08 at 3 32 13 AM" src="https://github.com/user-attachments/assets/301d0afe-3c6a-4bdb-9271-1451f339d0e0">
+<img width="294" alt="Screenshot 2024-11-08 at 3 31 02 AM" src="https://github.com/user-attachments/assets/43a3df1f-300f-4f8c-9796-d1eb9050073a">
